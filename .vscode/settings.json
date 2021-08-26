@@ -1,0 +1,5 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "javascript.suggestionActions.enabled": false,
+    "javascript.validate.enable":true
+}
